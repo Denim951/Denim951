@@ -43,7 +43,7 @@ NLP application that summarizes news articles, extracts the author, and classifi
 ### 💳 [Credit Card Default Prediction](https://github.com/Denim951/credit-card-default-prediction)
 Machine learning models predicting credit card default risk using financial data.
 
-### 📈 [Stock Price Forecasting]([https://github.com/Denim951/stock-price-forecast](https://github.com/Denim951/stock-price-forecasting))
+### 📈 [Stock Price Forecasting](https://github.com/Denim951/stock-price-forecasting)
 Comparison of machine learning models and traditional forecasting methods for stock price prediction.
 
 ### 🌍 Life Expectancy Gap Analysis (Tableau)
